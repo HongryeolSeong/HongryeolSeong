@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#### Here's my work. 🎮 <br/>
-[MRP 공정 모니터링](https://github.com/HongryeolSeong/MiniProject_SimpleMRP)
+### Here's my work. 🎮 <br/>
+#### [MRP 공정 모니터링](https://github.com/HongryeolSeong/MiniProject_SimpleMRP)

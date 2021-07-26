@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Here's my work. 🎮
-#### [MRP 공정 모니터링](https://github.com/HongryeolSeong/MiniProject_SimpleMRP)
+#### [MES 공정 모니터링](https://github.com/HongryeolSeong/MiniProject_SimpleMRP)

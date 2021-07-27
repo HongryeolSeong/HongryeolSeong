@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-###  🎮 Here's my work. 🕹
+### 🌼 Languages 🌻
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/HongryeolSeong/StudyCplusplus21)
+
+### 🎮 Here's my work. 🕹
 #### [ 🏭 MES 공정 모니터링](https://github.com/HongryeolSeong/MiniProject_SimpleMRP)
 #### [ 🎞 Naver Movie Finder](https://github.com/HongryeolSeong/MiniProject_Desktop/tree/main/WpfMiniProject)

@@ -4,7 +4,7 @@
 <br/>
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://github.com/HongryeolSeong/StudyRaspberryPi21) [![TCP/IP](https://img.shields.io/static/v1?label=&message=TCP/IP&color=orange)](https://github.com/HongryeolSeong/StudyTCP-IP21)
 <br/>
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HongryeolSeong/Study_Git)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/HongryeolSeong/Study_Git)
 
 <br/>
 
